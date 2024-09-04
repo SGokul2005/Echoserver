@@ -60,11 +60,10 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
-```
 Server Output:
 ![KALINUX LAB O1 SERVER](https://github.com/user-attachments/assets/227be165-6658-4957-9380-e4779085651d)
 
-```
+
 
 
 Client Output:
