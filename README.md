@@ -2,6 +2,10 @@
 Echo server and client using python socket
 
 # AIM:
+~~~
+NAME:GOKUL S
+REG.NO:212223040051
+~~~
 
 To develop a simple webserver to serve html programming pages.
 
@@ -56,13 +60,16 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
+```
 Server Output:
-![image](https://github.com/user-attachments/assets/e74f258f-85a6-439a-a692-2a0113bf8fd7)
+![KALINUX LAB O1 SERVER](https://github.com/user-attachments/assets/227be165-6658-4957-9380-e4779085651d)
 
+```
 
 
 Client Output:
-![image](https://github.com/user-attachments/assets/b39333ea-5e31-48f5-add1-bb6f2821dd6b)
+![KALILINUX LAB 01 CLIENT](https://github.com/user-attachments/assets/91b01345-0897-4ee3-b721-a66a429937be)
+
 
 ## RESULT:
 The program is executed successfully
